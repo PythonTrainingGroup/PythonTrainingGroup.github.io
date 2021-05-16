@@ -7,14 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# <i class="fa fa-cog fa-spin fa-fw"></i> Bio #
+# <i class="fa fa-cog fa-spin fa-fw"></i> 倡议书 #
 
-Dr. Zheng (Thomas) Tang is currently an Applied Scientist, [Metropolis](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) at [NVIDIA](https://www.nvidia.com/en-us/) (2021~). Dr. Tang was previously a Research Scientist, [Amazon One](https://one.amazon.com/) at [Amazon](https://www.amazon.com/) (2019~2021). He received his Ph.D. in [Electrical & Computer Engineering (ECE)](https://www.ece.uw.edu/) from the [University of Washington (UW)](http://www.washington.edu/) in 2019, and his B.S. from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) in 2014. 
-
-His research interests include intelligent transportation systems, intra-/inter-camera multi-target tracking, re-identification, pose estimation, camera calibration, synthetic data generation, biometric identification, and other topics in computer vision and machine learning. He has 2 filed U.S. patents and over 16 publications in peer-reviewed journals and conference proceedings in these areas. He has been an Associate Editor (2021~) for [<i>IEEE Transactions on Circuits and Systems for Video Technology</i> (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and an Organizing Committee member (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with CVPR. He also frequrently serves as a reviewer for academic journals and international conferences, such as T-PAMI, T-IP, T-MM, T-CSVT, T-ITS, T-AI, T-MC, RA-L, IEEE Access, ICME, etc.
-
-The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 (Multi-camera Vehicle Detection and Reidentification) at the [2nd AI City Challenge Workshop](https://www.aicitychallenge.org/2018-ai-city-challenge/) in CVPR 2018. His paper was a finalist of 2 Best Student Paper Awards at the [23rd International Conference on Pattern Recognition (ICPR), Cancún, 2016](https://iapr.org/archives/icpr2016/site.1.html). 
-
+为提高您的Python编程能力，现诚邀您加入python 互助小组。本小组本着开源共享的精神，相互促进Python科学数据处理能力。
+加入本小组，我们希望您是大气科学，环境科学，海洋科学相关专业的博士生或者青年科研工作者。
+加入本小组，您需要具有一定的Python编程基础。（暂不接受零基础的同学！！！敬请原谅）。能够用Python独立完成科研数据的处理。
+本小组定期召开技术分享会（暂定每周三 20:00（北京时间），每两周一次）。每次分享会邀请一位组员做30 分钟的技术分享，剩余30min进行自由讨论。每个人都需要做技术分享，这也是本小组目前不接受零基础同学的原因。
+为提高各位组员的技术应用能力，小组将进行长期的项目开发。项目主要为本领域内数据处理的算法，以提高本科研领域代码的标准化。在此代码开发的过程中，希望各位组员能够充分考虑代码的复用性，冗余性。
+	小组成员在此开发的代码的版权属于小组成员。所有代码均上传小组的github 上。未经小组同意，代码不得私自外传。
+	如您想加入我们，请将您的Python简要介绍发至PythonTraningGroup@gmail.com。我们期待您的到来。
+我们希望尽可能的控制小组人员数量，10人以内，名额不多，快快加入。
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
