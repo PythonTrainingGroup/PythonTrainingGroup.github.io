@@ -14,5 +14,5 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> 日程 ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[May.26 2021]</b> 2021年5月26日,北京时间20:00 我们将举办第一次技术分享会，主要讨论该小组以何种方式进行发展。</li> 
+  <li> <b>[May. 2021]</b> 五月下旬至六月上旬 (待成员确定后在定具体日期) 我们将举办第一次技术分享会，主要讨论该小组以何种方式进行发展。</li> 
   
